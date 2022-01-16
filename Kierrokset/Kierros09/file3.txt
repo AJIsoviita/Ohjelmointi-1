@@ -1,0 +1,4 @@
+Bart:
+Marge:10.0
+Lisa:2.2
+Homer:5.0
